@@ -69,8 +69,8 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="VirtualBoardControl.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="VirtualBoardWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
